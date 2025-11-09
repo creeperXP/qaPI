@@ -1,4 +1,4 @@
-# qaPI
+# qAPIbara
 
 🧠 **Nemotron** plans and executes version comparison workflows.  
 🔮 **Gemini** explains regressions in plain English and suggests fixes.  
