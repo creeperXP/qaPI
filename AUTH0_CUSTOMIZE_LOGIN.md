@@ -1,6 +1,6 @@
 # Customize Auth0 Login Message
 
-## Change "Log in to dev-oxbg5ukfe4ngqpqg to continue to hackutd25" to "Continue to qaPI"
+## Change "Log in to [  ] to continue to hackutd25" to "Continue to qaPI"
 
 The login message is controlled in the Auth0 Dashboard. Here's how to change it:
 
