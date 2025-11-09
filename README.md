@@ -2,7 +2,6 @@
 
 🧠 **Nemotron** plans and executes version comparison workflows.  
 🔮 **Gemini** explains regressions in plain English and suggests fixes.  
-☁️ **Vultr** hosts scalable test environments for distributed analysis.  
 🔐 **Auth0** secures access and audit logging for enterprise use.
 
 ## 🚀 Quick Start
