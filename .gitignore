@@ -8,9 +8,13 @@ venv/
 env/
 ENV/
 .venv
+hackutd25/
 *.egg-info/
 dist/
 build/
+*.db
+*.sqlite
+*.sqlite3
 
 # Node
 node_modules/
@@ -21,6 +25,8 @@ yarn-error.log*
 dist/
 dist-ssr/
 *.local
+.pnp/
+.pnp.js
 
 # Environment variables
 .env
@@ -45,6 +51,26 @@ firebase-credentials.json
 # Logs
 *.log
 logs/
+*.log.*
+
+# Build outputs
+Frontend/dist/
+Frontend/build/
+Backend/dist/
+Backend/build/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.coverage.*
+
+# Vite
+Frontend/.vite/
+Frontend/vite.config.js.timestamp-*
+
+# Supabase
+Backend/.supabase/
 
 
 
