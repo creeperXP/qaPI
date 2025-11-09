@@ -1,4 +1,4 @@
-# SentinelTwin Frontend
+# qaPI Frontend
 
 React frontend for SentinelTwin with beautiful dark neon gradient theme
 
