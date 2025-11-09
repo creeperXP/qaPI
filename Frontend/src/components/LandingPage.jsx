@@ -94,7 +94,7 @@ export default function LandingPage() {
           className="mb-8"
         >
           <h1 className="text-7xl md:text-8xl font-bold mb-4 gradient-text neon-glow">
-            qaPI
+            qAPIbara
           </h1>
           <div className="h-1 w-32 bg-gradient-cyber mx-auto rounded-full shadow-neon-cyan"></div>
         </motion.div>
