@@ -13,7 +13,7 @@ The login message is controlled in the Auth0 Dashboard. Here's how to change it:
 5. Change it from "hackutd25" to **"qaPI"**
 6. Click **Save Changes**
 
-This will change the message to: "Log in to dev-oxbg5ukfe4ngqpqg to continue to **qaPI**"
+This will change the message to: "Log in to [ ] to continue to **qaPI**"
 
 ### Method 2: Customize Universal Login Page (Full Control)
 
