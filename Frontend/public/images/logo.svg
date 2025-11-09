@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+  <rect x="2" y="2" width="20" height="20" rx="4" ry="4" fill="#0ea5a4" />
+  <path d="M7 12h10M7 8h10M7 16h6" stroke="#022c2b" strokeWidth="1.2"/>
+  <text x="12" y="18" fontSize="3.5" textAnchor="middle" fill="#022c2b" fontFamily="Arial, Helvetica, sans-serif">qa</text>
+</svg>
